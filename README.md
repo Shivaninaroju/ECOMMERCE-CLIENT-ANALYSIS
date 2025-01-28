@@ -25,18 +25,6 @@ To help the company make a data-driven decision about resource allocation by ana
 
 Programming Language: Python
 
-##Libraries Used:
-
-pandas
-
-numpy
-
-matplotlib
-
-seaborn
-
-scikit-learn
-
 ##Project Workflow
 
 Exploratory Data Analysis (EDA):
