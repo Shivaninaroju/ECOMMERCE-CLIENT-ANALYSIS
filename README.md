@@ -40,6 +40,7 @@ Handle missing values (if any).
 Scale the data for accurate model performance.
 
 Model Building:
+--------------
 
 Use Linear Regression to predict customer spending behavior.
 
