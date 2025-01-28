@@ -1,7 +1,7 @@
 # ECOMMERCE-CLIENT-ANALYSIS
  A data-driven project using Linear Regression to analyze customer behavior from an e-commerce dataset. The analysis helps decide whether to focus on improving the mobile app experience or the website for better customer engagement.
 
-##Project Overview
+## Project Overview
 
 This project leverages Linear Regression to analyze customer data from an e-commerce company. The goal is to provide actionable insights on whether the company should prioritize improving its mobile app experience or its website to enhance customer engagement and business growth.
 
