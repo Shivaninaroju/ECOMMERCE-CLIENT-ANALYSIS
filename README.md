@@ -5,7 +5,7 @@
 
 This project leverages Linear Regression to analyze customer data from an e-commerce company. The goal is to provide actionable insights on whether the company should prioritize improving its mobile app experience or its website to enhance customer engagement and business growth.
 
-##Dataset Features
+## Dataset Features
 
 The dataset includes the following key features:
 
@@ -17,15 +17,15 @@ Time on Website: Average time spent on the website in minutes.
 
 Length of Membership: Duration of customer membership in years.
 
-##Objective
+## Objective
 
 To help the company make a data-driven decision about resource allocation by analyzing the impact of each feature on customer spending behavior.
 
-##Tools and Technologies
+## Tools and Technologies
 
 Programming Language: Python
 
-##Project Workflow
+## Project Workflow
 
 Exploratory Data Analysis (EDA):
 
@@ -56,7 +56,7 @@ Business Insights:
 
 Provide recommendations on whether to focus on the mobile app or website.
 
-##Results
+## Results
 
 Insights on the influence of Time on App and Time on Website on customer spending.
 
