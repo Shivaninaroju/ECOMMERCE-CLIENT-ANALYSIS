@@ -9,13 +9,17 @@ This project leverages Linear Regression to analyze customer data from an e-comm
 
 The dataset includes the following key features:
 
-** Avg. Session Length: ** Average session length for in-store style advice sessions.
+###Avg. Session Length:
+Average session length for in-store style advice sessions.
 
-### Time on App: ###Average time spent on the mobile app in minutes.
+###Time on App:
+Average time spent on the mobile app in minutes.
 
-### Time on Website: ###Average time spent on the website in minutes.
+###Time on Website:
+Average time spent on the website in minutes.
 
-### Length of Membership: ###Duration of customer membership in years.
+###Length of Membership:
+Duration of customer membership in years.
 
 ## Objective
 
