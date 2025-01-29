@@ -27,32 +27,31 @@ Programming Language: Python
 
 ## Project Workflow
 
-Exploratory Data Analysis (EDA):
+###Exploratory Data Analysis (EDA):
 
 Analyze and visualize the data to understand the relationships between features.
 
 Identify trends and potential areas of improvement.
 
-Data Preprocessing:
+###Data Preprocessing:
 
 Handle missing values (if any).
 
 Scale the data for accurate model performance.
 
-Model Building:
---------------
+### Model Building:
 
 Use Linear Regression to predict customer spending behavior.
 
 Train the model on the dataset.
 
-Model Evaluation:
+### Model Evaluation:
 
 Evaluate the model’s performance using metrics like R-squared and Mean Absolute Error.
 
 Analyze feature importance to understand which factor has the most impact on spending.
 
-Business Insights:
+### Business Insights:
 
 Provide recommendations on whether to focus on the mobile app or website.
 
